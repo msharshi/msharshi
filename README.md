@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harshith M.S
+- 👋 Hi, I’m @msharshi
 - 👀 I’m interested in creating CI/CD pipelines and integrating them with AWS and DevOps tools
 - 🌱 I’m currently learning Kubernetes.
 - 💞️ I’m looking to collaborate on DevOps projects.
